@@ -54,3 +54,13 @@ Obs: Seguindo até o passo 12 já será possível trabalhar, realizar commits co
 
 O processo de fork em linhas gerais vai clonar este projeto da Pintos-LTDA para a sua conta. Isto permitirá que você trabalhe na resolução do(s) problema(s) e quando finalizado, nos envie para avaliação. De um fork neste repositório clicando no botão Fork, em seguida selecione seu perfil e pronto.
 
+Fork passo 1 - clicando em "Fork"
+
+<img> </img> 
+
+Fork passo 2 - selecionando seu perfil
+
+<img> </img> 
+
+Pronto, agora que você já tem este teste em seu perfil, basta trabalhar na resolução do mesmo e enviar dentro do prazo estabelecido.
+
