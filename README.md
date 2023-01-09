@@ -56,11 +56,17 @@ O processo de fork em linhas gerais vai clonar este projeto da Pintos-LTDA para 
 
 Fork passo 1 - clicando em "Fork"
 
-<img> </img> 
+<figure> 
+  <img src="" alt="">
+  <figcaption> abrindo o fork </figcaption>
+</figure>  
 
 Fork passo 2 - selecionando seu perfil
 
-<img> </img> 
+<figure> 
+  <img src="" alt="">
+  <figcaption> selecionando a sua conta </figcaption>
+</figure>  
 
 Pronto, agora que você já tem este teste em seu perfil, basta trabalhar na resolução do mesmo e enviar dentro do prazo estabelecido.
 
