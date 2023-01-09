@@ -28,9 +28,8 @@ $ sudo apt-get install git
 // Caso fedora ou  outro baseado no RedHat
 $ sudo yum install git
 
-####Mac OS Baixe o instalador e o execute.
+####Mac OS Baixe o <a href="https://git-scm.com/download/mac"> instalador </a> e o execute.
 
-https://git-scm.com/download/mac
 
 ###Após instalar o git
 
@@ -46,7 +45,7 @@ $ git config --global user.email "seu-email@..."
 
 ####Passo 2
 
-Após instalar e configurar o Git siga este tutorial: <href>Try Git</href>.
+Após instalar e configurar o Git siga este tutorial: <a href="https://try.github.io/levels/1/challenges/1">Try Git</a>.
 
 Obs: Seguindo até o passo 12 já será possível trabalhar, realizar commits com a evolução do seu código e nos enviar para avaliação. Caso tenha interesse em conhecer mais sobre o git, sugiro seguir o tutorial até o fim.
 
