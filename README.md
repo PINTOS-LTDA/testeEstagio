@@ -52,5 +52,5 @@ Obs: Seguindo até o passo 12 já será possível trabalhar, realizar commits co
 
 ####Passo 3 - Dando um fork no repositório
 
-O processo de fork em linhas gerais vai clonar este projeto da FourItil para a sua conta. Isto permitirá que você trabalhe na resolução do(s) problema(s) e quando finalizado, nos envie para avaliação. De um fork neste repositório clicando no botão Fork, em seguida selecione seu perfil e pronto.
+O processo de fork em linhas gerais vai clonar este projeto da Pintos-LTDA para a sua conta. Isto permitirá que você trabalhe na resolução do(s) problema(s) e quando finalizado, nos envie para avaliação. De um fork neste repositório clicando no botão Fork, em seguida selecione seu perfil e pronto.
 
