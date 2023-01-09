@@ -26,6 +26,7 @@ Basta rodar o comando:
 $ sudo apt-get install git
 
 // Caso fedora ou  outro baseado no RedHat
+
 $ sudo yum install git
 
 ####Mac OS Baixe o <a href="https://git-scm.com/download/mac"> instalador </a> e o execute.
