@@ -16,7 +16,8 @@ Antes de qualquer coisa, caso ainda não tenha conhecimento de Git, instale-o em
 
 ####Windows
 
-Baixe o arquivo instalador e o execute.
+Baixe o arquivo <a href="https://git-scm.com/download/win"> instalador </a> e o execute.
+
 
 ####Linux
 
@@ -29,6 +30,8 @@ $ sudo yum install git
 
 ####Mac OS Baixe o instalador e o execute.
 
+https://git-scm.com/download/mac
+
 ###Após instalar o git
 
 ####Passo 1
@@ -40,9 +43,10 @@ $ git config --global user.name "Seu nome"
 
 // Configurando o email
 $ git config --global user.email "seu-email@..."
+
 ####Passo 2
 
-Após instalar e configurar o Git siga este tutorial: Try Git.
+Após instalar e configurar o Git siga este tutorial: <href>Try Git</href>.
 
 Obs: Seguindo até o passo 12 já será possível trabalhar, realizar commits com a evolução do seu código e nos enviar para avaliação. Caso tenha interesse em conhecer mais sobre o git, sugiro seguir o tutorial até o fim.
 
