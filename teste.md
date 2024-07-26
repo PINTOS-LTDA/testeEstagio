@@ -17,10 +17,10 @@ A fórmula é a seguinte:
 $$ A = P \times \left( \frac{(1 + i)^n - 1}{i} \right) $$
 
 Onde:
-- \( A \) é o valor total a ser pago ao final do financiamento.
-- \( P \) é o valor da parcela.
-- \( i \) é a taxa de juros mensal.
-- \( n \) é o número de parcelas.
+- $A$ é o valor total a ser pago ao final do financiamento.
+- $P$ é o valor da parcela.
+- $i$ é a taxa de juros mensal.
+- $n$ é o número de parcelas.
 
 ### E.2 Verificar a disponibilidade de um produto no estoque
 
