@@ -79,3 +79,7 @@ Caso tenha qualquer dúvida, entre em contato respondendo ao e-mail que recebeu 
 ---
 
 Sinta-se à vontade para adaptar as imagens dos passos do fork com capturas de tela reais para melhorar ainda mais a clareza do guia.
+
+---
+
+[Link para o Teste de estágio](teste.md)
