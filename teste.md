@@ -1,10 +1,10 @@
 # Desafios Práticos de JavaScript (ES6+)
 
-- **Nota:**
-  - Utilize a abordagem ES6+ para resolver os exercícios.
-  - Entrega: todas as soluções devem estar em um único repositório (GitHub via fork).
-  - O estilo do código fica a critério do candidato e não é o foco principal do teste.
-  - Caso não consiga resolver todos os exercícios, envie mesmo assim.
+> **Nota:**
+>  - Utilize a abordagem ES6+ para resolver os exercícios.
+>  - Entrega: todas as soluções devem estar em um único repositório (GitHub via fork).
+>  - O estilo do código fica a critério do candidato e não é o foco principal do teste.
+>  - Caso não consiga resolver todos os exercícios, envie mesmo assim.
 
 ## Desafios
 
