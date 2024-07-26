@@ -62,13 +62,7 @@ Obs.: Seguindo até o passo 12 já será possível trabalhar, realizar commits c
 
 O processo de fork clonará este projeto para a sua conta. Isto permitirá que você trabalhe na resolução do(s) problema(s) e, quando finalizado, nos envie para avaliação. Faça um fork neste repositório clicando no botão “Fork” e, em seguida, selecione seu perfil.
 
-**Fork passo 1 - clicando em “Fork”**
-
-![Fork Passo 1](https://via.placeholder.com/500x150?text=Fork+Passo+1)
-
-**Fork passo 2 - selecionando seu perfil**
-
-![Fork Passo 2](https://via.placeholder.com/500x150?text=Fork+Passo+2)
+![alt text](img/image.png)
 
 Pronto! Agora que você já tem este teste em seu perfil, basta trabalhar na resolução do mesmo e enviar dentro do prazo estabelecido.
 
