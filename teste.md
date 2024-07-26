@@ -14,7 +14,7 @@ Crie uma função que receba o valor de um produto, a quantidade de parcelas e a
 
 A fórmula é a seguinte:
 
-\[ A = P \times \left( \frac{(1 + i)^n - 1}{i} \right) \]
+$$ A = P \times \left( \frac{(1 + i)^n - 1}{i} \right) $$
 
 Onde:
 - \( A \) é o valor total a ser pago ao final do financiamento.
